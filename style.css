@@ -1,0 +1,25 @@
+body {
+  font-family: sans-serif;
+  margin: 2rem;
+  background: #f9f9f9;
+  color: #333;
+}
+nav {
+  background: #e0e0e0;
+  padding: 1rem;
+  margin-bottom: 2rem;
+}
+nav a {
+  margin-right: 1rem;
+  text-decoration: none;
+  color: #0077cc;
+}
+nav a:hover {
+  text-decoration: underline;
+}
+main {
+  background: #fff;
+  padding: 2rem;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
